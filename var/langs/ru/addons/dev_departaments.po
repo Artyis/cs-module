@@ -1,0 +1,49 @@
+msgid ""
+msgstr "Project-Id-Version: tygh"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+
+msgctxt "Addons::name::dev_departaments"
+msgid "Departaments"
+msgstr "Модуль Отделов"
+
+msgctxt "Addons::description::dev_departaments"
+msgid "Adds ability to create departaments. Developed by Artem Gorbunov
+msgstr Добавляет возможность создания отделов. Разработал Горбунов Артем
+
+msgctxt "SettingsSections::dev_departaments::general"
+msgid "General"
+msgstr "General"
+
+msgctxt "Languages::departaments"
+msgid "Departaments"
+msgstr "Отделы"
+
+msgctxt "Languages::leader"
+msgid "leader"
+msgstr "Руководитель"
+
+msgctxt "Languages::add_leader"
+msgid "Add leader"
+msgstr "Добавить руководителя"
+
+msgctxt "Languages::workers"
+msgid "Workers"
+msgstr "Сотрудники"
+
+msgctxt "Languages::add_worker"
+msgid "Add worker"
+msgstr "Добавить сотрудника"
+
+msgctxt "Languages::add_departament"
+msgid "Add departament"
+msgstr "Добавить отдел"
+
+msgctxt "Languages::dev_departaments.name"
+msgid "AG departments"
+msgstr "AG отделы"
+
+msgctxt "Languages::dev_departaments.name_menu_description"
+msgid "Adds ability to create departaments."
+msgstr "Добавляет возможность создания отделов."

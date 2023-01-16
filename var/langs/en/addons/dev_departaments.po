@@ -1,0 +1,49 @@
+msgid ""
+msgstr "Project-Id-Version: tygh"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::dev_departaments"
+msgid "Departaments"
+msgstr "Departaments"
+
+msgctxt "Addons::description::dev_departaments"
+msgid "Adds ability to create departaments. Developed by Artem Gorbunov"
+msgstr "Adds ability to create departaments. Developed by Artem Gorbunov"
+
+msgctxt "SettingsSections::dev_departaments::general"
+msgid "General"
+msgstr "General"
+
+msgctxt "Languages::departaments"
+msgid "Departaments"
+msgstr "Departaments"
+
+msgctxt "Languages::leader"
+msgid "leader"
+msgstr "leader"
+
+msgctxt "Languages::add_leader"
+msgid "Add leader"
+msgstr "Add leader"
+
+msgctxt "Languages::workers"
+msgid "Workers"
+msgstr "Workers"
+
+msgctxt "Languages::add_worker"
+msgid "Add worker"
+msgstr "Add worker"
+
+msgctxt "Languages::add_departament"
+msgid "Add departament"
+msgstr "Add departament"
+
+msgctxt "Languages::dev_departaments.name"
+msgid "AG departments"
+msgstr "AG departments"
+
+msgctxt "Languages::dev_departaments.name_menu_description"
+msgid "Adds ability to create departaments."
+msgstr "Adds ability to create departaments."
